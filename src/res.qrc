@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>tower_fire.png</file>
+        <file>bullet_fire.png</file>
+        <file>bg_grass.png</file>
+        <file>bg_road.png</file>
+        <file>tower_earth.png</file>
+        <file>tower_water.png</file>
+        <file>tower_wind.png</file>
+        <file>bullet_earth.png</file>
+        <file>bullet_water.png</file>
+        <file>bullet_wind.png</file>
+        <file>icon.ico</file>
+        <file>bg_game.png</file>
+        <file>bg_menu.png</file>
+        <file>enemy_earth.png</file>
+        <file>enemy_fire.png</file>
+        <file>enemy_water.png</file>
+        <file>enemy_wind.png</file>
+	<file>lose_background.png</file>
+    </qresource>
+    <qresource prefix="/files">
+        <file>normal.txt</file>
+        <file>hard.txt</file>
+	<file>savefile.txt</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bg_music.mp3</file>
+        <file>button_click.mp3</file>
+        <file>button_hover.mp3</file>
+        <file>enemy_take_damage.mp3</file>
+        <file>button_deny.mp3</file>
+    </qresource>
+</RCC>

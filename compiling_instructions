@@ -1,0 +1,5 @@
+To compile the game: 
+1. Go to tower-defence-6/src
+2. run qmake
+3. run make
+4. Game is now built at tower-defence-6/src/build/release
